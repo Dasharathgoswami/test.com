@@ -1,2 +1,2 @@
 #!/bin/bash
-docker stop app
+docker rm -f app
